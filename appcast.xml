@@ -8,6 +8,17 @@
         <description>Release feed for StayCleanMac</description>
         <language>en</language>
         <!-- APPCAST_ITEMS_START -->
+<item>
+    <title>Version 0.1.0</title>
+    <pubDate>Thu, 23 Apr 2026 13:07:40 GMT</pubDate>
+    <sparkle:version>1</sparkle:version>
+    <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/eazler/staycleanmac-releases/releases/download/v0.1.0/StayCleanMac-0.1.0.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="KGMxoFTs3bqF9xzkvsNpOjxi0A+rfpLMFNKOP3188mloMO8GYW1HM/TUJZaUiCfe21D3TBgAlNhKgfKkbdUSDQ==" length="2645317" />
+</item>
         <!-- APPCAST_ITEMS_END -->
     </channel>
 </rss>
