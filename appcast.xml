@@ -9,6 +9,17 @@
         <language>en</language>
         <!-- APPCAST_ITEMS_START -->
 <item>
+    <title>Version 0.1.8</title>
+    <pubDate>Fri, 24 Apr 2026 04:02:23 GMT</pubDate>
+    <sparkle:version>9</sparkle:version>
+    <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/eazler/staycleanmac-releases/releases/download/v0.1.8/StayCleanMac-0.1.8.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="LODyI3Y+NhaXTSdp6UEgQaa754KmS15z12CPyjGDIZY7R4JPNPZ9BPpRwkfxm1jdivElYfngwMn/kOe2/XugBw==" length="4076931" />
+</item>
+<item>
     <title>Version 0.1.7</title>
     <pubDate>Fri, 24 Apr 2026 03:50:04 GMT</pubDate>
     <sparkle:version>8</sparkle:version>
